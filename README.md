@@ -1,2 +1,2 @@
 # Causal Programmer 
-https://obertguo.ml
+https://obertguo.cf
