@@ -1,4 +1,6 @@
-# Hello!
-I am Obert Guo, and I enjoy solving a wide range of problems, anything from low level programming and embedded hardware, to creating high-level Web APIs, or computer graphics, algorithm efficiency and optimization, or most importantly, all things Mathematics!
+# Hello, I am Obert Guo 👋
+I enjoy solving a wide range of problems, anything from low level programming and embedded hardware, to creating high-level Web APIs, or computer graphics, algorithm efficiency and optimization, and all things Mathematics!
 
-As hobbies, I am great at playing the piano and badminton.
+As hobbies, I love to play the piano and play badminton.
+
+[Visit my Personal Website!](https://obertguo.github.io/)
